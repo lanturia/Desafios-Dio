@@ -1,2 +1,2 @@
 # Desafios-DIO
-Aqui esta todos os desafios da plataforma DIO
+Aqui esta todos os desafios e codigos da plataforma DIO
